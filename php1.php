@@ -1,2 +1,1 @@
-<php>
-phpinnfo();
+111
